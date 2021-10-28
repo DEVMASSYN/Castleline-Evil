@@ -27,7 +27,7 @@ Tego dowiesz się grając w **Castleline Evil**!
 ### RAM
 * Minimum: 4 GB
 ### OS
-* Linux 64 Bit, Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1,
+* Linux 64 Bit, Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1
 ### Wolne Miejsce Na Dysku
 * Minimum: 1 GB
 
