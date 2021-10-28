@@ -1,9 +1,9 @@
-# CastlelineEvil
+# Castleline Evil
  ![CastelineEvil](https://user-images.githubusercontent.com/51244922/139240639-13de6508-12d4-4bcd-b033-f89542b6ba95.png)
  
 ###### UWAGA! GRA JEST W WERSJI ALPHA, WYDANA NA POTRZEBY DRUGIEJ EDYCJI KONKURSU NA GRĘ WIDZÓW ORGANIZOWANEGO NA SERWERZE DC DEVSZYR: https://discord.gg/WTmPaaS
 	
-Zefast, rok 1999.
+**Zefast, rok 1999.**
 
 W mieście krąży legenda o tym, że zamek króla Rotgesichta został zaatakowany przez wroga,
 skutkiem czego jest zajęcie całęgo kompleksu przez hordy przerażających potworów.
@@ -12,12 +12,12 @@ zamek otacza tajemnicza bariera. Jednak jest jedna osoba, któa na tą barierę 
 
 ...a tą osobą jesteś ty!
 
-W grze CastlelineEvil wcielamy się w byłego komandosa wojsk królewskich, który w przeszłości
+W grze **Castleline Evil** wcielamy się w byłego komandosa wojsk królewskich, który w przeszłości
 w wyniku prowadzonych na nim eksperymentów stał się czymś pomiędzy człowiekem, a potworem.
 * Czy podążając śladem wrogów, uda się tobie odzyskania spokoju miasta Zefast?
 * Czy atak na zamek miał coś związanego z twoją przeszłością?
 
-Tego dowiesz się grając w CastlelineEvil!
+Tego dowiesz się grając w **Castleline Evil**!
 
 ## WYMAGANIA SPRZĘTOWE
 ### Karta Graficzna
