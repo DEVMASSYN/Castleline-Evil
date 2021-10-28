@@ -1,6 +1,5 @@
 # CastlelineEvil
  ![CastelineEvil](https://user-images.githubusercontent.com/51244922/139240639-13de6508-12d4-4bcd-b033-f89542b6ba95.png)
- ![1](https://user-images.githubusercontent.com/51244922/138364795-c0170fee-6eac-4408-93c8-46e793b44b60.png)
  
 ###### UWAGA! GRA JEST W WERSJI ALPHA, WYDANA NA POTRZEBY DRUGIEJ EDYCJI KONKURSU NA GRĘ WIDZÓW ORGANIZOWANEGO NA SERWERZE DC DEVSZYR: https://discord.gg/WTmPaaS
 	
@@ -21,5 +20,16 @@ w wyniku prowadzonych na nim eksperymentów stał się czymś pomiędzy człowie
 Tego dowiesz się grając w CastlelineEvil!
 
 ## WYMAGANIA SPRZĘTOWE
+### Karta Graficzna
+* Minimum: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11) || VRAM: 1 GB
+### CPU
+* Minimum: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz
+### RAM
+* Minimum: 4 GB
+### OS
+* Linux 64 Bit, Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1,
+### Wolne Miejsce Na Dysku
+* Minimum: 1 GB
 
 ## GALERIA ZDJĘĆ
+![1](https://user-images.githubusercontent.com/51244922/138364795-c0170fee-6eac-4408-93c8-46e793b44b60.png)
